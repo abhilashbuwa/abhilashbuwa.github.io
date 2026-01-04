@@ -179,7 +179,21 @@ textarea {
   @media only screen and (max-width: 37.5em) {
     .text-primary {
       font-size: 2rem; } }
+.text-focus {
+  color: #555 !important; /* Muted professional grey */
+  font-size: 1.6rem;      /* Slightly smaller than the main text */
+  margin-top: 1.5rem;    /* Creates a clean gap from the paragraph above */
+  font-weight: 500;
+  line-height: 1.6;
+  text-align: center;
+}
 
+.text-focus strong {
+  color: #222;           /* Makes the label 'Focus' slightly bolder/darker */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.4rem;
+}
 .d-none {
   display: none; }
 
