@@ -668,8 +668,8 @@ textarea {
     margin-top: 2rem; }
 .main-footer__icon {
     margin-right: 1rem;
-    width: 12rem;           /* Increased from 2.5rem */
-    height: 12rem;          /* Added height to make it a square ID shape */
+    width: 8rem;           /* Increased from 2.5rem */
+    height: 8rem;          /* Added height to make it a square ID shape */
     border-radius: 0.5rem;  /* Optional: slightly rounded corners like an ID card */
     object-fit: cover;      /* Keeps the image aspect ratio perfect */
     border: 2px solid #eee; /* Optional: adds a subtle frame */
